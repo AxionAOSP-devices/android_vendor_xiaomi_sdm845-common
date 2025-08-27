@@ -1070,6 +1070,7 @@ cc_prebuilt_library_shared {
                 "libc",
                 "libm",
                 "libdl",
+                "liblog",
             ],
         },
         android_arm64: {
@@ -1082,6 +1083,7 @@ cc_prebuilt_library_shared {
                 "libc",
                 "libm",
                 "libdl",
+                "liblog",
             ],
         },
     },
